@@ -7,6 +7,8 @@
 [Releases](https://github.com/KimHapGeum/noritune-update/releases/latest)에서 `Noritune_<버전>_x64-setup.exe`를 받아 실행하세요.
 설치한 뒤에는 프로그램이 켜질 때 새 버전을 스스로 확인해요.
 
+"Windows의 PC 보호" 파란 창 (SmartScreen): 추가 정보 → 실행을 누르면 설치됩니다.
+
 - Windows 10/11 64비트
 - 처음 켤 때 반주 분리에 필요한 부품을 받아요 (그래픽카드용 약 3GB, 디스크 약 8GB)
 - 지우기: 설정 → 앱 → 설치된 앱(또는 제어판 → 프로그램 추가/제거)에서 Noritune 제거
