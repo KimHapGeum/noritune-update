@@ -12,7 +12,6 @@
 - Windows 10/11 64비트
 - 처음 켤 때 반주 분리에 필요한 부품을 받아요 (그래픽카드용 약 3GB, 디스크 약 8GB)
 - 지우기: 설정 → 앱 → 설치된 앱(또는 제어판 → 프로그램 추가/제거)에서 Noritune 제거
-- 이 저장소에는 설치 파일과 업데이트 정보(`latest.json`)만 있어요. 소스 코드는 [KimHapGeum/noritune](https://github.com/KimHapGeum/noritune) (MIT 라이선스)
 
 ## Code signing policy
 
